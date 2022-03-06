@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aerglass
+- 👋 Hi, I’m @AerGlass
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning stuff
 <!---
